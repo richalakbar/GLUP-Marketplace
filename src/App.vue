@@ -33,7 +33,7 @@ const products = [
 <template>
   <div class="home">
     <header>
-      <img alt="Vue logo" class="logo" src="./assets/logo.jpg" width="125" height="125" />
+      <img alt="Vue logo" class="logo" src="@/assets/logo.jpg" width="125" height="125" />
       <h1>Welcome to GLUP Marketplace</h1>
     </header>
 
